@@ -4,7 +4,7 @@ MSSV: 24021373
 
 Tóm tắt cốt truyện: Một Shinobi đi lạc vào trong rừng, trong quá trình đi lạc của mình Shinobi vô tình gặp
 phải rất nhiều sinh vật nhăm nhe hãm hại anh ta. Bạn là người chơi, hãy hóa thân vào nhân vật này để kiếm
-được càng nhiều vật phẩm và sống sót càng lâu nhé!.
+được càng nhiều vật phẩm và sống sót càng lâu càng tốt nhé!.
 
 Nguồn tham khảo:
 - itch.io
@@ -15,6 +15,7 @@ Nguồn tham khảo:
 - Tutorial: https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_
 
 Chức năng: 
+
 a, Nhân vật chính
 - Di chuyển nhân vật qua 2 hướng trái phải (nhảy, chạy, đứng yên chuyển hướng).
 - Thao tác tấn công:
